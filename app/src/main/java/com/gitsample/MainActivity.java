@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "dfgdf", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "dgdf", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "3", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "I am in master", Toast.LENGTH_SHORT).show();
     }
 
 }
