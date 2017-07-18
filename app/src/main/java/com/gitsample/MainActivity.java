@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private void testUpload() {
         Log.i("test", "htest");
         Toast.makeText(this, "dfgdf", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "dgdf", Toast.LENGTH_SHORT).show();
     }
 
 }
